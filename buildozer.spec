@@ -6,7 +6,7 @@
 [app]
 
 # (str) Title of your application
-title = My App2
+title = 帥同打怪
 
 # (str) Package name
 package.name = friendgame
