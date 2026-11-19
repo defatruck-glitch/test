@@ -51,6 +51,7 @@ requirements = python3==3.11.9,hostpython3==3.11.9,kivy==2.3.0
 
 # (str) Presplash of the application
 #presplash.filename = %(source.dir)s/data/presplash.png
+presplash.filename = %(source.dir)s/splash.png
 
 # (str) Icon of the application
 #icon.filename = %(source.dir)s/data/icon.png
