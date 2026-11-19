@@ -54,7 +54,7 @@ requirements = python3==3.11.9,hostpython3==3.11.9,kivy==2.3.0
 
 # (str) Icon of the application
 #icon.filename = %(source.dir)s/data/icon.png
-icon.filename = %(source.dir)s/icon.png
+icon.filename = %(source.dir)s/icon.jpg
 
 # (list) Supported orientations
 # Valid options are: landscape, portrait, portrait-reverse, landscape-reverse, or all
